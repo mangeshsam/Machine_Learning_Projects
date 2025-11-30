@@ -1,0 +1,52 @@
+# Ignore Jupyter notebook checkpoints everywhere
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore specific project folders
+Air_pollution/
+air_pollution/
+air_polution/
+air_polution/
+BlackFriday/
+Dataset/
+Pratiksha project/
+pratiksha_project/
+Pratiksha_Project/
+BlackFriday project/
+Pratiksha/
+pratiksha/
+Pratiksha/
+BlackFriday/
+dataset/
+Dataset/
+Pratiksha project/
+Pratiksha_project/
+Pratiksha_Project/
+pratiksha/
+Pratiksha/
+BlackFriday/
+Dataset/
+dataset/
+
+# If you want to ignore any pollution folder (important safeguard)
+*pollution*/
+
+# Generic high-confidence patterns
+BlackFriday/
+Dataset/
+BlackFriday project/
+Pratiksha project/
+air_polution/
+Air_pollution/
+
+# Optional: ignore Python cache
+__pycache__/
+*.pyc
+pip-log.txt
+
+# Optional: ignore OS junk
+.DS_Store
+Thumbs.db
